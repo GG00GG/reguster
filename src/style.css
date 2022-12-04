@@ -1,0 +1,144 @@
+// This is the project stylesheet
+
+// Colors
+$black: rgba(0, 0, 0, 1);
+$gainsboro: rgba(217, 217, 217, 1);
+$transparent-black: rgba(0, 0, 0, 0.25);
+$white: rgba(255, 255, 255, 1);
+
+// Typographies
+@mixin inter-15-regular {
+  font-family: "Inter";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin inter-17-regular {
+  font-family: "Inter";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin inter-35-regular {
+  font-family: "Inter";
+  font-size: 35px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin inter-40-regular {
+  font-family: "Inter";
+  font-size: 40px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.iPhone141 {
+  background-color: $white;
+  padding: 4px 6px 7px;
+  display: flex;
+  align-items: flex-start;
+}
+.frame2 {
+  background-color: rgba(89, 89, 89, 1);
+  padding: 0 0 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame1 {
+  background-color: $gainsboro;
+  margin-bottom: 4px;
+  padding: 7px 6px 29px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperOne {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+.num1494522 {
+  width: 201px;
+  height: 202px;
+  margin-right: 10px;
+  box-shadow: 0 4px 4px 0 $transparent-black;
+  border: 1px solid $black;
+  border-radius: 256px;
+}
+.aleksandrIP {
+  height: 61px;
+  width: 273px;
+  color: $black;
+  display: flex;
+  margin-top: 10px;
+  @include inter-35-regular;
+}
+.num548419 {
+  height: 17px;
+  width: 83px;
+  color: $black;
+  display: flex;
+  margin-left: 65px;
+  @include inter-17-regular;
+}
+.frame4 {
+  background-color: $gainsboro;
+  margin-bottom: 4px;
+  padding: 32px 14px 205px 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.glavnaja {
+  height: 53px;
+  width: 442px;
+  color: $black;
+  display: flex;
+  margin-bottom: 43px;
+  @include inter-40-regular;
+}
+.rejting {
+  height: 45px;
+  width: 451px;
+  color: $black;
+  display: flex;
+  margin-bottom: 45px;
+  @include inter-40-regular;
+}
+.prepodavateli {
+  height: 54px;
+  width: 451px;
+  color: $black;
+  display: flex;
+  margin-bottom: 40px;
+  @include inter-40-regular;
+}
+.messendzher {
+  height: 54px;
+  width: 445px;
+  color: $black;
+  display: flex;
+  margin-bottom: 41px;
+  @include inter-40-regular;
+}
+.dostizhenija {
+  height: 47px;
+  width: 456px;
+  color: $black;
+  display: flex;
+  @include inter-40-regular;
+}
+.frame3 {
+  background-color: $gainsboro;
+  padding: 57px 206px 6px 211px;
+  display: flex;
+  align-items: flex-start;
+}
+.num2022data {
+  height: 19px;
+  width: 83px;
+  color: $black;
+  display: flex;
+  @include inter-15-regular;
+}
