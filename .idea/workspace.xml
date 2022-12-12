@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18a34295-b967-4b26-8123-c310d9d4d875" name="Changes" comment="th">
-      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/ava-mobile.png" afterDir="false" />
+    <list default="true" id="18a34295-b967-4b26-8123-c310d9d4d875" name="Changes" comment="gg">
+      <change afterPath="$PROJECT_DIR$/src/css/siti.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ava-pk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/reyt-pk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pk.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ps.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ps.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mobile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,20 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15527344&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Proeckt/register/reguster/src/css",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15527344",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Proeckt\register\reguster\src\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Proeckt\register\reguster\src\img" />
+      <recent name="D:\Proeckt\register\reguster\src\css" />
       <recent name="D:\Proeckt\register\reguster\src" />
     </key>
   </component>
@@ -72,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670166678749</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gg">
+      <created>1670821591825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670821591825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="th" />
-    <option name="LAST_COMMIT_MESSAGE" value="th" />
+    <MESSAGE value="gg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gg" />
   </component>
 </project>
